@@ -1,0 +1,9 @@
+# You can write comments in this file
+// You can also use slashes for them
+// Whitespace will be ignored
+// If this file has no entries, it will be ignored
+// If it has entries, _only_ the files listed will
+// transfer to the student repo
+
+only_me.py
+readme.md
