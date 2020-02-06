@@ -17,3 +17,10 @@
 # slow 1
 # checking file contents 8
 # checking shas  3
+
+def my_function():
+    print("hello")
+
+def student_work():
+    # Your code here
+
