@@ -28,3 +28,7 @@ def my_function():
 def student_work():
     # Your code here
 
+    print("more boilerplate")
+
+    # Your code here
+
