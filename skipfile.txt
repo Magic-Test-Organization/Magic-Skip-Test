@@ -1,0 +1,16 @@
+# You can write comments in this file
+// You can also use slashes for them
+// Whitespace will be ignored
+// An error will be generated if a file is not found
+// Perhaps it should only generate a warning though
+
+missingfile.py
+skipme.py
+
+# timestamp check 1
+# sha check 1
+# speedtesting7
+
+# slow test2
+
+# superfasttesting  4
