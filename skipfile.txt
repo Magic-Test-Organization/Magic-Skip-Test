@@ -4,13 +4,11 @@
 // An error will be generated if a file is not found
 // Perhaps it should only generate a warning though
 
+// Folders may be ignored with `ignore_folder/`
+
 missingfile.py
 skipme.py
 
-# timestamp check 1
-# sha check 1
-# speedtesting7
+ignore_folder/
 
-# slow test2
-
-# superfasttesting  4
+# 4
